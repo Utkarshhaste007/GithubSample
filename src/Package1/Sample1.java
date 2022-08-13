@@ -9,7 +9,10 @@ public class Sample1 {
 	public void m2() {
 		int i =20;
 		int b =50;
+		System.out.println(i);
 	}
+	
+	
 
 	//cloned from Git
 }
